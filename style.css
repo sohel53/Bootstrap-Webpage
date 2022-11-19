@@ -1,0 +1,14 @@
+.navbar {
+    margin-top: 0px;
+}
+.nav-link active {
+    color: white;
+}
+.d-flex {
+    color: white;
+}
+.copyright {
+    color: white;
+    text-align: center;
+
+} 
